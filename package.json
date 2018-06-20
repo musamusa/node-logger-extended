@@ -1,0 +1,15 @@
+{
+  "name": "node-logger-extended",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:musamusa/node-logger-extended.git",
+  "author": "Musa Musa <musakunte@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "extend": "^3.0.1"
+  }
+}
